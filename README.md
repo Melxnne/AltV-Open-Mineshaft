@@ -15,6 +15,6 @@
 3. **Add the resource to your server config** by including it in the `server.toml`:
    ```plaintext
    resources: [
-       'AltV-Open-Mineshaft',
+       'OpenMineshaft',
        ...
    ]
